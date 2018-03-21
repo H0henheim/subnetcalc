@@ -10,3 +10,9 @@ Subnet Calc was developped with Python 2.7 but it should work with Python 3
 
 Launching the script
 $ python subnetcalc.py
+
+Screenshots
+
+![alt text](https://github.com/H0henheim/subnetcalc/blob/master/subnetcalc1.PNG)
+
+![alt text](https://github.com/H0henheim/subnetcalc/blob/master/subnetcalc2.PNG)
