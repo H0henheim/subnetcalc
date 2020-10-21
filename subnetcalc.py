@@ -1,7 +1,13 @@
 import sys
 import os.path
-from Tkinter import *
-import ttk
+if sys.version_info[0] == 3:
+    # for Python3
+    from tkinter import *
+    #from tkinter.ttk import *
+else:
+    # for Python2
+    from Tkinter import *
+    import ttk
 
 def cidr_to_netmask(cidr):
   cidr = int(cidr)
