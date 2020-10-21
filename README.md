@@ -3,11 +3,13 @@
 
 A graphical subnet calculator in Python
 
-Be sure to have Tkinter installed before launching the script
+Be sure to have Tkinter module installed before launching the script. It is normally included with all standard Python distributions. 
 
-**$ sudo apt-get install python-tk**
+You can check with the followings commands :
+Python 2 - **python -m Tkinter** 
+Python 3 - **python -m tkinter** 
 
-Subnet Calc was developped with Python 2.7 but it should work with Python 3
+Subnet Calc was developped with Python 2.7 but it works with Python 3
 
 Launching the script
 
